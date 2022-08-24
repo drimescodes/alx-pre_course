@@ -1,2 +1,2 @@
-“my second commit
-Not for the weak”
+“my second commit"
+"Not for the weak”
